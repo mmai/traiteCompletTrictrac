@@ -11,17 +11,18 @@ edit_uri: "" # disable edit button linking to repository
 docs_dir: src/
 site_dir: html/
 
-nav:
-  - Présentation: index.md
-  - Discours préliminaire: discoursPreliminaire.md
-  - Première partie: premierePartie.md
-  - Deuxième partie: deuxiemePartie.md
-  - Troisième partie: troisiemePartie.md
-  - Quatrième partie: quatriemePartie.md
-  - Appendix: appendix.md
+# nav:
+#   - Présentation: index.md
+#   - Discours préliminaire: discoursPreliminaire.md
+#   - Première partie: premierePartie.md
+#   - Deuxième partie: deuxiemePartie.md
+#   - Troisième partie: troisiemePartie.md
+#   - Quatrième partie: quatriemePartie.md
+#   - Appendix: appendix.md
 
 markdown_extensions:
-  - pm_attr_list
+  - footnotes
+  # - pm_attr_list
 
 # -----  Config for Material theme ------
 # theme:
