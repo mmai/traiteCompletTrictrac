@@ -1,9 +1,9 @@
-site_name: Cours complet de Trictrac
+site_name: Traité complet de Trictrac
 site_author: Henri Bourcereau
-site_url: https://mmai.github.io/coursCompletDeTrictrac/
+site_url: https://mmai.github.io/traiteCompletTrictrac/
 
 # repository
-repo_url: https://github.com/mmai/coursCompletDeTrictrac/
+repo_url: https://github.com/mmai/traiteCompletTrictrac/
 repo_name: code source
 edit_uri: "" # disable edit button linking to repository
 
@@ -11,14 +11,17 @@ edit_uri: "" # disable edit button linking to repository
 docs_dir: src/
 site_dir: html/
 
-# nav:
-#   - Présentation: index.md
-#   - Discours préliminaire: discoursPreliminaire.md
-#   - Première partie: premierePartie.md
-#   - Deuxième partie: deuxiemePartie.md
-#   - Troisième partie: troisiemePartie.md
-#   - Quatrième partie: quatriemePartie.md
-#   - Appendix: appendix.md
+nav:
+  - Introduction: introduction.md
+  - Chapitre I: chapitre1.md
+  - Chapitre II: chapitre2.md
+  - Chapitre III: chapitre3.md
+  - Chapitre IV: chapitre4.md
+  - Chapitre V: chapitre5.md
+  - Chapitre VI: chapitre6.md
+  - Chapitre VII: chapitre7.md
+  - Chapitre VIII: chapitre8.md
+  - todo: guiton.md
 
 markdown_extensions:
   - footnotes
