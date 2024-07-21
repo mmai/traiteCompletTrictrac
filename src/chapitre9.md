@@ -1,4 +1,4 @@
-# Le petit jan.
+# Chapitre IX. Le petit jan.
 
 **Cas où l'on peut entreprendre le petit jan.**
 FAIRE le plein du petit jan, c'est-à-dire garnir de cases entières les flèches qui, le composent, est le premier but que puisse se proposer le joueur au commencement de la partie ou de chaque relevé, lorsque les dés qu'il amène paraissent favorables à cette entreprise. Pour se livrer à cette tentative, il faut en général que les premiers points soient très faibles, et ne se portent pas au delà des trois ou quatre premières flèches. Pour y persévérer, il faut que les coups suivants soient tels, que les points amenés s'arrangent naturellement dans le petit jan, de manière à en garnir successivement les cases. Si, dans les premiers coups, on amène des points qui forcent à porter plusieurs dames hors du petit jan, il faut se hâter d'y renoncer, et l'abandonner aussitôt pour s'occuper de prendre son coin et préparer son jeu pour le grand jan.

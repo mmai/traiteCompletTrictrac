@@ -1,4 +1,4 @@
-# Lois du jan de retour et de la sortie des dames.
+# Chapitre VII. Lois du jan de retour et de la sortie des dames.
 
 La révolution entière du trictrac, lorsqu'elle s'accomplit, et qu'elle n'est pas interrompue par l'exercice du droit qu'a chacun des joueurs de s'en aller, consiste à faire parcourir successivement à toutes ses dames les quatre jans du tablier, pour les sortir enfin par la bande contiguë au talon de l'adversaire : cette sortie a des règles particulières qu'on va exposer.
 

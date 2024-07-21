@@ -1,4 +1,4 @@
-# Le coin de repos.
+# Chapitre X. Le coin de repos.
 
 L'EXPÉRIENCE, d'accord avec les principes, prouve combien il est important de se préparer les moyens de prendre son coin promptement, et surtout d'obtenir à cet égard la priorité sur son adversaire. Les succès d'un côté, les revers de l'autre, dépendent le plus souvent de ce point si essentiel. Le joueur qui parvient le premier à prendre son coin, joint à l'avantage de battre le coin de son adversaire, celui de le priver d'un grand nombre de moyens pour prendre le sien, puisqu'il lui ôte le privilège de la puissance. Il le gêne en outre dans la marche et la conduite de son jeu, par la crainte que doit lui inspirer un moyen de battre aussi rapproché, et qui peut atteindre toutes les dames exposées en demi case.
 

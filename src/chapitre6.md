@@ -1,4 +1,4 @@
-# Lois du plein.
+# Chapitre VI. Lois du plein.
 
 POUR tout ce qui a rapport aux points que l'on gagne, soit en faisant
 le plein, soit en le conservant, ainsi qu'aux différentes manières de

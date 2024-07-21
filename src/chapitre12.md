@@ -1,4 +1,4 @@
-# Jan de retour.
+# Chapitre XII. Jan de retour.
 
 APRÈS avoir exposé les principes qui doivent guider le joueur dans les deux premières périodes d'une partie de trictrac, il nous reste à indiquer ceux qui sont spécialement applicables au jan de retour qui en termine la marche. Nous traiterons successivement ce qui est relatif au passage dans les jans de l'adversaire, au plein dans le dernier de ces jans, et enfin à la sortie des dames hors du tablier.
 

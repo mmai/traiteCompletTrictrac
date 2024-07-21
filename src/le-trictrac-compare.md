@@ -1,4 +1,6 @@
-# Coup d'oeil sur les jeux en général, et comparaison du Trictrac avec ceux qui sont le plus en vogue dans la société
+# Le Trictrac comparé
+
+_Coup d'oeil sur les jeux en général, et comparaison du Trictrac avec ceux qui sont le plus en vogue dans la société_
 
 Les jeux de hasard ont été inventés par la cupidité; les jeux de société l'ont été par le désir de s'amuser. C'est la passion qui entraîne vers les uns, on se livre aux autres pour se procurer un passetemps agréable. La soif de l'or domine exclusivement dans les premiers, l'amour-propre et le désir du succès président principalement aux seconds. Les jeux de hasard sont une peste destructive de la société; les autres au contraire en sont le lien, et en cimentent l'union, Les jeux de hasard corrompent la morale, pervertissent la jeunesse, l'entraînent vers tous les excès; les autres, en l'attachant plus particulièrement aux sociétés honnêtes, affermissent en elle les principes qui distinguent et caractérisent ces sociétés, et la mettent à portée d'y puiser des leçons et de recevoir des exemples utiles. Autant on doit s'attacher à inspirer aux jeunes gens l'horreur des jeux de hasard, autant on doit s'efforcer de faire germer en eux le goût des jeux de société, qui ne peut que leur devenir salutaire, en les détournant d'habitudes vicieuses.
 

@@ -1,4 +1,4 @@
-# Lois du coin de repos.
+# Chapitre IV. Lois du coin de repos.
 
 **On ne peut mettre une dame seule dans son coin.**
 On ne peut jamais mettre une dame seule dans le coin de repos, on ne peut l'occuper qu'en y plaçant deux dames à la fois. On ne peut pareillement évacuer son coin qu'en déplaçant les deux dames à la fois.

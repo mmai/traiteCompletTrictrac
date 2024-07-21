@@ -1,4 +1,4 @@
-# Exemples de quelques positions auxquelles on peut faire l'application des maximes, ainsi que des avis qui ont été donnés pour bien jouer.
+# Chapitre XIV. Exemples de quelques positions auxquelles on peut faire l'application des maximes, ainsi que des avis qui ont été donnés pour bien jouer.
 
 
 ## Lorsqu'on met des dames en demi-case, tâcher d'avoir en sa faveur au moins l'égalité des chances.

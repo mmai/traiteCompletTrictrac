@@ -1,4 +1,4 @@
-# Le grand jan.
+# Chapitre XI. Le grand jan.
 
 Le _grand jan_ peut et doit être considéré comme le pivot sur lequel roule presque tout l'intérêt d'une partie de Trictrac; c'est le but principal auquel aspirent les joueurs, et vers lequel se dirige leur ambition.
 

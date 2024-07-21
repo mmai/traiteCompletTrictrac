@@ -1,4 +1,4 @@
-# Lois pour s'en aller ou pour rester.
+# Chapitre V. Lois pour s'en aller ou pour rester.
 
 **Conditions requises pour s'en aller.**
 TOUTES les fois qu'on obtient le trou par l'effet requises pour de son propre dé on peut s'en aller, soit qu'on marque réellement ce trou, soit qu'on oublie de le marquer; mais on ne peut s'en aller si ce trou est acquis par le dé de l'adversaire. (Voyez l'exception au paragraphe, page 112.)
@@ -27,3 +27,6 @@ La différence que la règle établit, dans ce cas, entre l'école par moins et 
 
 **Celui qui, au jan de re tour, prend le trou par le droit de sortie des dames, peut s'en aller.**
 À la sortie des dames au jan de retour, celui qui lève ses deux dernières, et qui obtient le trou par les points attribués à cette chance, a le droit de s'en aller; et ce droit peut lui être utile, surtout à la partie à écrire, lorsque ce trou lui donne le marqué; parce qu'alors, en s'en allant, il termine ce marqué, lequel continuerait, s'il n'annonçait pas qu'il s'en va, avant de jeter son dé pour recommencer le marqué suivant.
+/**
+ * 
+ */

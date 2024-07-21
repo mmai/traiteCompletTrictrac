@@ -1,4 +1,4 @@
-# Les cing tables de combinaisons annoncées dans l'ouvrage, et les tableaux des chances que présentent diverses positions particulières.
+# Chapitre XV. Les cing tables de combinaisons annoncées dans l'ouvrage, et les tableaux des chances que présentent diverses positions particulières.
 
 
 ## PREMIÈRE TABLE.

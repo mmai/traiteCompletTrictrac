@@ -12,6 +12,8 @@ docs_dir: src/
 site_dir: html/
 
 nav:
+  - Présentation: index.md
+  - Avertissement: avertissement.md
   - Introduction: introduction.md
   - Chapitre I: chapitre1.md
   - Chapitre II: chapitre2.md

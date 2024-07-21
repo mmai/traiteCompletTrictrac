@@ -1,4 +1,4 @@
-# Analyse des différentes combinaisons que donnent les deux dés réunis, et figure représentative du Trictrac
+# Chapitre II. Analyse des différentes combinaisons que donnent les deux dés réunis, et figure représentative du Trictrac
 
 ![Fig. I](data/fig1.jpg)
 
@@ -53,15 +53,15 @@ chances qu'on a pour remplir quand il ne reste plus qu'une demi-case à
 couvrir._
 
 
-_Première méthode._
+### Première méthode.
 
 Cette méthode est fondée sur la progression décroissante 11, 9, 7, etc., dont nous venons de donner la démonstration....
 
 Lorsqu'on n'a qu'un nombre direct pour remplir, on ajoute 10 à ce nombre; le total donne le nombre des chances par lesquelles on peut remplir, savoir : les onze chances inhérentes à chaque nombre plus celles produites par la décomposition de ce nombre.
 
-Si l'on a deux nombres directs, on compte vingt chances, savoir: onze pour l'un de ces nombres, et neuf seulement pour l'autre à cause du double emploi, comme nous l'avons déjà expliqué; en ayant toujours soin d'ajouter les produits de la décomposition de ces nombres, sauf les doubles emplois. résultant de cette décomposition (Voyez l'analysé ci-dessus). Ainsi le joueur qui, pour couvrir une demi-case, a un 6, plus un 5, compte vingt-sept chances; savoir, onze pour l'un de ces nombres et neuf pour l'autre; plus, pour la décomposition du 6 par 4 et 2, et par terne trois chances (le 5 et as faisant double emploi) : en y joignant la décomposition du 5 par 3 et 2, et par 4 et as, qui donne quatre chances, cette réunion forme un total de vingt-sept chances. S'il avait un 6 et un 3, il n'aurait que vingt-six chances, savoir vingt pour les deux dames directes; plus, pour la décomposition. du 6 par 4 et 2, et par 5 et as, quatre chances (le terne faisant double emploi); plus, la décomposition du 3 par 2 et as.
+Si l'on a deux nombres directs, on compte vingt chances, savoir: onze pour l'un de ces nombres, et neuf seulement pour l'autre à cause du double emploi, comme nous l'avons déjà expliqué; en ayant toujours soin d'ajouter les produits de la décomposition de ces nombres, sauf les doubles emplois résultant de cette décomposition (Voyez l'analysé ci-dessus). Ainsi le joueur qui, pour couvrir une demi-case, a un 6, plus un 5, compte vingt-sept chances; savoir, onze pour l'un de ces nombres et neuf pour l'autre; plus, pour la décomposition du 6 par 4 et 2, et par terne trois chances (le 5 et as faisant double emploi) : en y joignant la décomposition du 5 par 3 et 2, et par 4 et as, qui donne quatre chances, cette réunion forme un total de vingt-sept chances. S'il avait un 6 et un 3, il n'aurait que vingt-six chances, savoir vingt pour les deux dames directes; plus, pour la décomposition. du 6 par 4 et 2, et par 5 et as, quatre chances (le terne faisant double emploi); plus, la décomposition du 3 par 2 et as.
 
-_Utilité de cette méthode dans deux autres cas._
+**Utilité de cette méthode dans deux autres cas.**
 
 Cette progression décroissante a sur toutes les autres méthodes l'avantage bien important de servir à faire connaître non seulement les chances que l'on a pour remplir, quand il ne reste plus à couvrir qu'une demi-case, mais encore à faire apercevoir, au premier examen, les chances qu'on a pour battre, par les points directs, les dames exposées en demi-case.
 
@@ -69,7 +69,7 @@ Elle est encore très utile pour faire connaître, au premier aperçu, le nombre
 flèches garnies, etc.
 
 
-_Seconde méthode pour connaître le nombre de l'on a pour remplir, lorsqu'il ne reste plus qu'une demi-case à couvrir._
+### Seconde méthode pour connaître le nombre de l'on a pour remplir, lorsqu'il ne reste plus qu'une demi-case à couvrir.
 
 Cette méthode, qui n'est applicable qu'au cas particulier que nous indiquons, pourra paraître préférable à la précédente, parce que l'opération qu'elle exige est plus simple et plus prompte, et qu'elle n'a pas besoin, comme les précédentes, d'une opération subséquente pour la décomposition de chacun des nombres, ce qui exige plus de travail, et peut être sujet à des oublis.
 
@@ -86,7 +86,7 @@ Soit qu'on suive l'une ou l'autre de ces méthodes, il faut, pour connaître exa
 
 qu'offrent les différentes positions pour remplir d'une manière, lorsqu'il ne reste plus qu'une dame en demi-case à couvrir, nous allons en donner une qui fait connaître, par un calcul prompt et facile, combien on a de chances pour couvrir de deux manières cette demi-case. Nous terminerons par l'exposition d'un calcul qui fait connaître avec la même facilité le nombre de chances qu'on a pour remplir lorsqu'il reste une ease entière à faire.
 
-_Méthode pour connaitre combien on a de chances pour remplir de deux manières, lorsqu'il ne reste plus qu'une demi-case à couvrir._
+### Méthode pour connaitre combien on a de chances pour remplir de deux manières, lorsqu'il ne reste plus qu'une demi-case à couvrir.
 
 Si l'on a quatre nombres aboutissant directement à la demi-case, on prend pour base du calcul le nombre 24; on déduit de ce nombre autant d'unités qu'il se trouve de points qui sont la moitié d'un des autres; on en déduit en outre quatre unités si deux des nombres sont égaux en quantité à l'un des deux autres nombres. Ce qui reste, après ces déductions faites, indique le nombre des chances qu'on a pour remplir de deux manières.
 
@@ -110,7 +110,7 @@ Nous nous emparons en même temps de cette observation pour faire remarquer comb
 
 Pour ne rien omettre de ce qui appartient à la justesse et à l'exactitude de cette méthode, il faut observer qu'au produit des calculs qu'elle indique, on devrait ajouter le nombre des chances que pourrait fournir une dame aboutissante par les deux points réunis à la demi-case qui reste à couvrir, toujours en faisant distraction des doubles emplois indiqués dans les méthodes précédentes.
 
-Méthode pour connaître, par un calcul très simple, le nombre des chances qu'on a, soit pour faire une case entière, soit pour battre le coin de l'adversaire.
+### Méthode pour connaître, par un calcul très simple, le nombre des chances qu'on a, soit pour faire une case entière, soit pour battre le coin de l'adversaire.
 
 Cette méthode consiste à multiplier par lui-même le nombre des flèches garnies de dames qui aboutissent directement, soit à la case qui reste à faire, soit au coin de l'adversaire. Du produit de cette multiplication on soustrait autant d'unités qu'il se trouve de ces flèches qui ne sont garnies que d'une seule dame; ce qui reste, après cette soustraction, indique la quantité des chances que l'on a, soit pour remplir d'emblée, soit pour battre le coin de l'adversaire. A l'égard du coin, on observera que le joueur doit écarter de ce calcul les deux dames qui garnissent son propre coin, et n'y comprendre que les surnuméraires, s'il y en a.
 
