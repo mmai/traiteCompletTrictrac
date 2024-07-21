@@ -6,8 +6,9 @@
 
   # https://devenv.sh/packages/
   packages = [
-    pkgs.mkdocs
+    pkgs.python312Packages.mkdocs
     pkgs.python312Packages.mkdocs-material
+
     pkgs.imagemagick # to convert svg to png
     # pkgs.calibre # for tests : epub viewer
   ];
