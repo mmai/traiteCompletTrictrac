@@ -35,6 +35,7 @@ nav:
 
 markdown_extensions:
   - footnotes
+  - material-plausible
   # - pm_attr_list
 
 # -----  Config for Material theme ------
@@ -64,10 +65,14 @@ theme:
 
   # analytics:
   #   gtag: G-7P8EEWM1YZ
+
 extra:
-  # analytics:
-  #   provider: google
-  #   property: G-B6PEG20J74
+  analytics:
+    provider: plausible
+    domain: mmai.github.io
+    #: If using custom domain proxy or self-hosting Plausible,
+    #: uncomment and specify script path here:
+    src: "https://webstats.rhumbs.fr/js/plausible.js"
   social:
       - icon: fontawesome/brands/github
         link: https://github.com/mmai
