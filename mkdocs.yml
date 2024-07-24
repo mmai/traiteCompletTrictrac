@@ -41,6 +41,7 @@ markdown_extensions:
 # -----  Config for Material theme ------
 theme:
   name: material
+  custom_dir: overrides
   language: fr
   features:
     # - announce.dismiss
@@ -67,12 +68,10 @@ theme:
   #   gtag: G-7P8EEWM1YZ
 
 extra:
-  # analytics:
-  #   provider: plausible
-  #   domain: mmai.github.io
-  #   #: If using custom domain proxy or self-hosting Plausible,
-  #   #: uncomment and specify script path here:
-  #   src: "https://webstats.rhumbs.fr/js/plausible.js"
+  analytics:
+    provider: plausible
+    domain: mmai.github.io
+    src: "https://webstats.rhumbs.fr/js/plausible.js"
   social:
       - icon: fontawesome/brands/github
         link: https://github.com/mmai
