@@ -71,7 +71,7 @@ extra:
   analytics:
     provider: plausible
     domain: mmai.github.io
-    src: "https://webstats.rhumbs.fr/js/plausible.js"
+    src: "https://webstats.rhumbs.fr/js/touch.js"
   social:
       - icon: fontawesome/brands/github
         link: https://github.com/mmai
