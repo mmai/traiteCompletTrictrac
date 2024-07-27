@@ -27,4 +27,4 @@ Outre l'occupation du coin bourgeois, il est en core avantageux d'avoir une dame
 
 Au surplus la conduite du joueur, dans la disposition de ses dames, doit dépendre de l'état du jeu de son adversaire et de sa propre position. Pour arriver le premier au coin, et se donner pour y parvenir un plus grand nombre de chances, il ne doit pas s'exposer témérairement à la perte du trou, et peut-être à celle du marqué : la prudence doit toujours le diriger.
 
-Pour connaître le nombre des chances qu'on a, ou pour prendre son coin ou pour battre celui de l'adversaire, on doit consulter la méthode qui y est relative, faisant partie de celles placées à la suite de l'analyse des dés, page 33.
+Pour connaître le nombre des chances qu'on a, ou pour prendre son coin ou pour battre celui de l'adversaire, on doit consulter la méthode qui y est relative, faisant partie de celles placées à la suite de l'[analyse des dés](chapitre2.md/#analyse-des-des).

@@ -16,7 +16,7 @@ Combinaisons de chacun des six nombres d'un dé réuni successivement à chaque 
 
 ## TROISIÈME TABLE.
 
-Présentant les trente-six chances d'après la méthode décroissante indiquée page 21.
+Présentant les trente-six chances d'après la [méthode décroissante indiquée chapitre II](chapitre2.md#methode-decroissante).
 
 ![Table 3](data/table3.png)
 

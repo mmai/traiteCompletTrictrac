@@ -1,6 +1,6 @@
 # Chapitre I. Vocabulaire des termes techniques spécialement adoptés pour le jeu de Trictrac, avec leur définition.
 
-**A bas.** On dit mettre à bas lorsqu'on joue son coup avec une ou deux dames, prises à la pile: dans le premier cas, on dit simplement mettre une dame à bas; dans le second, on dit mettre tout à bas. On dit aussi avoir du bois à bas, lorsqu'on a plusieurs dames placées dans son petit-jan, pour caser dans le grand.
+**À bas.** On dit mettre à bas lorsqu'on joue son coup avec une ou deux dames, prises à la pile: dans le premier cas, on dit simplement mettre une dame à bas; dans le second, on dit mettre tout à bas. On dit aussi avoir du bois à bas, lorsqu'on a plusieurs dames placées dans son petit-jan, pour caser dans le grand.
 
 **Adouber.** On dit j'adoube, terme de précaution dont on se sert pour avoir la liberté de toucher ses dames sans être obligé de les jouer, ou sans encourir le risque d'être mis à l'école pour avoir omis de marquer les points qu'on pourrait gagner.
 
@@ -10,7 +10,7 @@ Lorsqu'après avoir dit j'adoube, on a déplacé, joué ou abandonné une dame, 
 
 **Aller, s'en aller.** Lorsqu'un joueur prend un trou par l'effet de son propre dé, il a le droit de rompre le jeu et de s'en aller, c'est-à-dire que de part et d'autre on remet toutes les dames à la pile, pour continuer la partie. Lorsqu'on reçoit le trou par le coup de dés de l'adversaire, on ne jouit pas de la faculté de s'en aller. Celui qui s'en va a la priorité du dé pour recommencer.
 
-**Bandes.** On appelle ainsi les quatre bordures qui entourent le tablier, et celle du milieu, qui le partage en deux parties égales, Les bandes qui se trouvent devant chaque joueur sont percées de douze trous chacune. A mesure qu'on prend un trou, on y place le fichet; les bandes latérales sont percées chacune de deux trous, pour recevoir le pavillon.
+**Bandes.** On appelle ainsi les quatre bordures qui entourent le tablier, et celle du milieu, qui le partage en deux parties égales, Les bandes qui se trouvent devant chaque joueur sont percées de douze trous chacune. À mesure qu'on prend un trou, on y place le fichet; les bandes latérales sont percées chacune de deux trous, pour recevoir le pavillon.
 
 **Battre.** On bat une dame lorsqu'elle est découverte, et qu'on amène un point avec lequel, soit par un des nombres directs, soit par l'un et par l'autre, soit enfin par les deux nombres réunis, on pourrait couvrir cette dame avec une ou plusieurs des siennes.
 
@@ -42,9 +42,9 @@ Enfin on bat aussi le coin, lorsqu'ayant pris le sien avec deux dames qui sont l
 
 On appelle aussi bredouille le double jeton dont se sert celui qui marque des points en second. Il garde le double jeton tant que la série n'est pas interrompue par les points que prend l'adversaire; il l'ôte aussitôt qu'elle est interrompue.
 
-A la partie à écrire, la marque qui sert à constater la série des trous pris en second, s'appelle pavillon où étendard; elle se met à l'endroit où se place le fichet lorsqu'on n'a pas encore de trous. On l'ôte pareillement aussitôt que la série est interrompue par les trous que prend l'adversaire : c'est ce qu'on appelle _débredouiller_.
+À la partie à écrire, la marque qui sert à constater la série des trous pris en second, s'appelle pavillon où étendard; elle se met à l'endroit où se place le fichet lorsqu'on n'a pas encore de trous. On l'ôte pareillement aussitôt que la série est interrompue par les trous que prend l'adversaire : c'est ce qu'on appelle _débredouiller_.
 
-**Cases.** On appelle ainsi les flèches (voyez ce mot) qui marquent les vingt-quatre divisions du tablier. On appelle case vide une flèche qui est totalement dégarnie de dames; demi-case, celle qui n'est garnie que d'une dame; case entière, celle qui est garnie de deux dames; surcase, une dame placée sur une case déjà complète; et enfin cases alternes, celles entre chacune desquelles il y a une flèche vide. On appelle communément _case du diable** la septième flèche, en partant de la pile, pour exprimer la difficulté qu'on éprouve souvent à la faire, surtout lorsqu'elle reste la dernière. On appelle aussi case de l'écolier, la dixième qui précède le coin, vu l'empressement que des joueurs inexpérimentés montrent pour faire cette case, qu'il est quelquefois dangereux de faire trop tôt, et presque toujours avantageux de réserver pour la dernière. On dit faire fausse case lorsque, par erreur, on place une ou deux dames à une flèche autre que celle où elles doivent aboutir par le point amené. (Voyez le chapitre III des règles.)
+**Cases.** On appelle ainsi les flèches (voyez ce mot) qui marquent les vingt-quatre divisions du tablier. On appelle case vide une flèche qui est totalement dégarnie de dames; demi-case, celle qui n'est garnie que d'une dame; case entière, celle qui est garnie de deux dames; surcase, une dame placée sur une case déjà complète; et enfin cases alternes, celles entre chacune desquelles il y a une flèche vide. On appelle communément _case du diable** la septième flèche, en partant de la pile, pour exprimer la difficulté qu'on éprouve souvent à la faire, surtout lorsqu'elle reste la dernière. On appelle aussi case de l'écolier, la dixième qui précède le coin, vu l'empressement que des joueurs inexpérimentés montrent pour faire cette case, qu'il est quelquefois dangereux de faire trop tôt, et presque toujours avantageux de réserver pour la dernière. On dit faire fausse case lorsque, par erreur, on place une ou deux dames à une flèche autre que celle où elles doivent aboutir par le point amené. (Voyez le [chapitre III](chapitre3.md) des règles.)
 
 **Coin.** Chaque joueur en a deux : l'un dans le petit-jan, à la cinquième flèche, près la bande de séparation; l'autre dans le grand-jan, à la dernière flèche. Le premier s'appelle coin bourgeois, et le second s'appelle coin de repos.
 
@@ -66,7 +66,7 @@ particulière.
 
 Toute dame battue par doublet, le coin et les coins battus par doublet, le plein fait ou conservé par doublet, valent deux points de plus que par coup simple.
 
-**École.** C'est le nom que l'on donne à la faute que commet un joueur en ne marquant pas les points qu'il a, ou en marquant des points qu'il n'a pas. La première s'appelle école d'omission, ou par moins; la seconde, école par trop. (Voyez au chapitre III des règles la définition des différentes écoles, et tous les détails qui y sont relatifs.)
+**École.** C'est le nom que l'on donne à la faute que commet un joueur en ne marquant pas les points qu'il a, ou en marquant des points qu'il n'a pas. La première s'appelle école d'omission, ou par moins; la seconde, école par trop. (Voyez au [chapitre III](chapitre3.md) des règles la définition des différentes écoles, et tous les détails qui y sont relatifs.)
 
 **Emblée.** Terme consacré pour exprimer que par un même coup de dés on fait une case entière, en plaçant à la fois deux dames sur une flèche vide. Si cette case est la dernière, on dit alors qu'on remplit d'emblée.
 
@@ -86,7 +86,7 @@ Toute dame battue par doublet, le coin et les coins battus par doublet, le plein
 
 **Jan de six tables ou de trois coups.** Lorsqu'un joueur, au commencement. de la partie ou d'un relevé, a amené, par ses deux premiers coups, des points avec lesquels il a garni quatre des six premières flèches; si, par les points amenés au troisième coup, il peut garnir les deux autres, il marque quatre points: c'est ce qu'on appelle faire le jan de six tables. Il n'est cependant pas tenu de garnir effectivement les six flèches; mais il a l'option de jouer le dernier coup de la manière qu'il juge la plus convenable à ses intérêts.
 
-**Jeter les dés.** C'est les lancer hors du cornet pour déterminer le point qu'on aura à jouer. (Voyez au chapitre III des règles ce qui concerne le jet du dé.)
+**Jeter les dés.** C'est les lancer hors du cornet pour déterminer le point qu'on aura à jouer. (Voyez au [chapitre III](chapitre3.md) des règles ce qui concerne le jet du dé.)
 
 **Jeton.** Il y en a trois que l'on place, en commençant, à la bande, entré les deux piles, et qui servent ensuite à marquer les points.
 
@@ -108,7 +108,7 @@ Toute dame battue par doublet, le coin et les coins battus par doublet, le plein
 
 **Pile de misère.** On se sert de ce terme pour désigner le cas où, ayant rompu son grand-jan, on se trouve forcé, par la contrariété du dé, d'empiler ses quinze dames à la dernière flèche, sans avoir pu, en passer une seule dans les jans de son adversaire. Autrefois celui qui la faisait gagnait quatre points en la terminant par coup simple et six par doublet; il gagnait les mêmes points à chaque coup tant qu'il la conservait; mais, contre toute raison et justice, l'usage actuel prive celui qui la fait de ce léger dédommagement.
 
-**Plein.** Se dit d'un jan quelconque lorsque toutes les flèches de ce jan sont garnies de cases entières. Points. Pour acquérir le trou il faut avoir douze points. A mesure qu'on en gagne on les marque avec les jetons. Celui qui marque les premiers points les marque avec un seul jeton; celui qui en prend en second les marque avec deux jetons, et il en ôte un lorsque l'adversaire, reprenant des points, interrompt la série.
+**Plein.** Se dit d'un jan quelconque lorsque toutes les flèches de ce jan sont garnies de cases entières. Points. Pour acquérir le trou il faut avoir douze points. À mesure qu'on en gagne on les marque avec les jetons. Celui qui marque les premiers points les marque avec un seul jeton; celui qui en prend en second les marque avec deux jetons, et il en ôte un lorsque l'adversaire, reprenant des points, interrompt la série.
 
 Pour marquer deux points on place le jeton de son côté devant la seconde flèche en partant de la pile; pour quatre points, devant la quatrième; pour six points, près la bande du milieu du côté du petit-jan; pour huit points, au delà 'et auprès de cette bande dans le grand-jan; pour dix points, à la bande latérale entre les deux coins de repos. La progression des points que l'on gagne est toujours en nombre pair.
 
@@ -116,7 +116,7 @@ Pour marquer deux points on place le jeton de son côté devant la seconde flèc
 
 **Remplir.** Synonyme de _faire son plein_. (Voyez ce mot.)
 
-**Remplir en passant.** (Voyez cet article au chapitre VI des lois du plein.)
+**Remplir en passant.** (Voyez cet article au [chapitre VI](chapitre6.md) des lois du plein.)
 
 **Relevé.** Lorsqu'un joueur ayant pris le trou s'en va, chacun relève ses dames, les remet à la pile, et la partie continue. Cela s'appelle un relevé.
 
